@@ -16,3 +16,9 @@ QR코드 검색기능으로 정확한 원산지 추적이 가능합니다.<br>
 수산물 관련 모든 데이터를 효율적으로 관리 할 수 있습니다.<br>
 
 http://www.mycryptobox.network 에서 확인할 수 있습니다.
+
+# QR코드
+
+Dapp Browser가 있는 wallet 어플에서 Ropsten Network로 연결한 후 QR코드 스캔하여 
+
+<img width="30%" height="30%" src="https://github.com/gch01410/MyCryptoBox/blob/master/MobileWeb/src/images/QR.jpg">
