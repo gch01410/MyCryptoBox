@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="style.css" rel="stylesheet" type="text/css">
+    <title>MyCryptoBox</title>
+</head>
+<body>
+<div id="container">
+    <div id="menuBar">
+        <img id="logo" src="images/logo.png">
+    </div>
+    <div id="verification">
+        <img src="images/check.png" width="170" height="170">
+        <div class="fontWeight">원산지 검증이 완료되었습니다!</div>
+    </div>
+    <div class="rectangle" id="lightInfo">
+        <span class="fontWeight">원산지</span>
+        <span class="circle" id="origin"></span>
+    </div>
+    <div class="rectangle">
+        <span class="fontWeight">최종입고날짜</span>
+        <span class="circle" id="inputDate"></span>
+    </div>
+    <div class="rectangleTable" id="field">
+        <div id="detailContent">
+            <div>
+                <div>상세내역</div>
+            </div>
+        </div>
+        <div class="tableMenu">
+            <div class="tableCell">
+                <div>처리일시</div>
+            </div>
+            <div class="tableCell">
+                <div>장소</div>
+            </div>
+            <div class="tableCell">
+                <div>업체명</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+<script src="App.js"></script>
+<script src="Abi.js"></script>
+</html>
