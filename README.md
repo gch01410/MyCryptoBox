@@ -19,10 +19,21 @@ http://www.mycryptobox.network 에서 확인할 수 있습니다.
 
 # QR코드
 
-Dapp Browser가 있는 wallet 어플에서 Ropsten Network로 연결한 후 QR코드 스캔하여 확인
+Dapp Browser가 있는 wallet 어플에서 Ropsten Network로 연결한 후 QR코드 스캔하여 확인<br>
+
+
+아래 사이트로 접속하여 확인가능(모바일화면으로 변경)<br>
+
+
+<여수><br>
+http://www.mycryptobox.network/src/query.html?0xffa567d3b6024f4ab8328c09951bc5b05dcc416f9c3e1150ae5a01bb70963c72<br>
+<목포><br>
+http://www.mycryptobox.network/src/query.html?0xbc39c0e930336c777ec1114f967d24d9373f8756f3f08dd3d5a4d85f22579876<br>
 
 <img width="30%" height="30%" src="https://github.com/gch01410/MyCryptoBox/blob/master/MobileWeb/src/images/QR.jpg">
 
 
 <img width="40%" height="40%" margin="30%" src="https://github.com/gch01410/MyCryptoBox/blob/master/MobileWeb/src/images/Yeosu.PNG">
 <img width="40%" height="40%" src="https://github.com/gch01410/MyCryptoBox/blob/master/MobileWeb/src/images/Mokpo.PNG">
+
+
