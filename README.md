@@ -22,7 +22,7 @@ http://www.mycryptobox.network 에서 확인할 수 있습니다.
 Dapp Browser가 있는 wallet 어플에서 Ropsten Network로 연결한 후 QR코드 스캔하여 확인<br>
 
 
-아래 사이트로도 접속해서 확인가능(모바일화면으로 변경)(Meta Mask등 이더리움 지갑 필요)<br>
+아래 사이트로도 접속해서 확인가능(모바일화면으로 변경하여 , Meta Mask등 이더리움 지갑 필요)<br>
 
 
 <여수><br>
